@@ -3,5 +3,13 @@
     "id": 1021051402,
     "development": 1021051403,
     "prod": 1021051402
+  },
+  "android": {
+    "development": 1021051403,
+    "prod": 1021051402
+  },
+  "ios": {
+    "development": 1021051403,
+    "prod": 1021051402
   }
 }
