@@ -1,12 +1,12 @@
 {
   "version": {
-    "id": 1021051416,
-    "development": 1021051418,
-    "prod": 1021051416
+    "id": 1021051422,
+    "development": 1021051423,
+    "prod": 1021051422
   },
   "android": {
     "development": 1021051422,
-    "prod": 1021051416
+    "prod": 1021051422
   },
   "ios": {
     "development": 1021051417,
