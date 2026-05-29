@@ -1,10 +1,10 @@
 {
   "android": {
-    "development": "1021051510",
-    "prod": "1021051506"
+    "development": "1021051527",
+    "prod": "1021051527"
   },
   "ios": {
-    "development": "1021051469",
-    "prod": "1021051464"
+    "development": "1021051527",
+    "prod": "1021051527"
   }
 }
